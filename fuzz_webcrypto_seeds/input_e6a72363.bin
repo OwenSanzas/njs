@@ -1,0 +1,1 @@
+(async()=>{try{await crypto.subtle.importKey("raw",new Uint8Array([]),{name:"ECDSA",namedCurve:"P-256"},true,["sign"])}catch(e){}})();

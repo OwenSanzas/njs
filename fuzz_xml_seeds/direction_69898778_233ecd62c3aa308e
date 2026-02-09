@@ -1,0 +1,1 @@
+<root><![CDATA[<special>&chars"thatneed\encoding]]><child>normal text</child><![CDATA[more <cdata> content]]></root>

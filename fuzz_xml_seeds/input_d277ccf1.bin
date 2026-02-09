@@ -1,0 +1,1 @@
+'); var xml2=require('xml'); var doc=xml2.parse('<root/>'); if(doc&&doc.$root){doc.$root.$text=String.fromCharCode(60,62,38,34,13).repeat(50);} //

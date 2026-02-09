@@ -1,0 +1,1 @@
+<ns1:root xmlns:ns1="http://a.com" xmlns:ns2="http://b.com"><ns1:child ns2:attr="val"><ns2:nested xmlns:ns3="http://c.com" ns3:x="y">text content</ns2:nested></ns1:child></ns1:root>

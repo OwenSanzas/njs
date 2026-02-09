@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><?processing instruction?><!DOCTYPE root [<!ENTITY test "value">]><root xmlns:ns1="http://ns1" xmlns:ns2="http://ns2"><ns1:child ns2:attr="value">text &test;</ns1:child></root>

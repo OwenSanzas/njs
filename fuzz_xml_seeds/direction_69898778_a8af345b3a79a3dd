@@ -1,0 +1,1 @@
+<root xmlns="http://default" xmlns:a="http://a" xmlns:b="http://b"><a:child1 b:attr="val"><b:nested>text with special chars &amp; &lt; &gt;</b:nested></a:child1><a:child2 xmlns:c="http://c"><c:deep><c:deeper>content</c:deeper></c:deep></a:child2></root>
